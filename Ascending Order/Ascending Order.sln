@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ascending Order", "Ascending Order\Ascending Order.vbproj", "{D181AA31-79FB-436F-9FA4-F602070C2A0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D181AA31-79FB-436F-9FA4-F602070C2A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D181AA31-79FB-436F-9FA4-F602070C2A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D181AA31-79FB-436F-9FA4-F602070C2A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D181AA31-79FB-436F-9FA4-F602070C2A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

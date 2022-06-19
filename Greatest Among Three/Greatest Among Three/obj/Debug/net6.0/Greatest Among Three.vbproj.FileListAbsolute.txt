@@ -1,0 +1,15 @@
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/bin/Debug/net6.0/Greatest Among Three
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/bin/Debug/net6.0/Greatest Among Three.deps.json
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/bin/Debug/net6.0/Greatest Among Three.runtimeconfig.json
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/bin/Debug/net6.0/Greatest Among Three.dll
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/bin/Debug/net6.0/Greatest Among Three.pdb
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/obj/Debug/net6.0/Greatest Among Three.vbproj.AssemblyReference.cache
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/obj/Debug/net6.0/Greatest Among Three.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/obj/Debug/net6.0/Greatest Among Three.AssemblyInfoInputs.cache
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/obj/Debug/net6.0/Greatest Among Three.AssemblyInfo.vb
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/obj/Debug/net6.0/Greatest Among Three.vbproj.CoreCompileInputs.cache
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/obj/Debug/net6.0/Greatest Among Three.dll
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/obj/Debug/net6.0/refint/Greatest Among Three.dll
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/obj/Debug/net6.0/Greatest Among Three.pdb
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/obj/Debug/net6.0/Greatest Among Three.genruntimeconfig.cache
+/Users/mukeshmahato/Visual basic console app/Greatest Among Three/Greatest Among Three/obj/Debug/net6.0/ref/Greatest Among Three.dll

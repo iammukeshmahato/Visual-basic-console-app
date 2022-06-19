@@ -1,0 +1,15 @@
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/bin/Debug/net6.0/Multiplication Table
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/bin/Debug/net6.0/Multiplication Table.deps.json
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/bin/Debug/net6.0/Multiplication Table.runtimeconfig.json
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/bin/Debug/net6.0/Multiplication Table.dll
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/bin/Debug/net6.0/Multiplication Table.pdb
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/obj/Debug/net6.0/Multiplication Table.vbproj.AssemblyReference.cache
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/obj/Debug/net6.0/Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/obj/Debug/net6.0/Multiplication Table.AssemblyInfoInputs.cache
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/obj/Debug/net6.0/Multiplication Table.AssemblyInfo.vb
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/obj/Debug/net6.0/Multiplication Table.vbproj.CoreCompileInputs.cache
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/obj/Debug/net6.0/Multiplication Table.dll
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/obj/Debug/net6.0/refint/Multiplication Table.dll
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/obj/Debug/net6.0/Multiplication Table.pdb
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/obj/Debug/net6.0/Multiplication Table.genruntimeconfig.cache
+/Users/mukeshmahato/Visual basic console app/Multiplication Table/Multiplication Table/obj/Debug/net6.0/ref/Multiplication Table.dll

@@ -1,0 +1,15 @@
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/obj/Debug/net6.0/Swap Value.vbproj.AssemblyReference.cache
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/obj/Debug/net6.0/Swap Value.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/obj/Debug/net6.0/Swap Value.AssemblyInfoInputs.cache
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/obj/Debug/net6.0/Swap Value.AssemblyInfo.vb
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/obj/Debug/net6.0/Swap Value.vbproj.CoreCompileInputs.cache
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/bin/Debug/net6.0/Swap Value
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/bin/Debug/net6.0/Swap Value.deps.json
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/bin/Debug/net6.0/Swap Value.runtimeconfig.json
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/bin/Debug/net6.0/Swap Value.dll
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/bin/Debug/net6.0/Swap Value.pdb
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/obj/Debug/net6.0/Swap Value.dll
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/obj/Debug/net6.0/refint/Swap Value.dll
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/obj/Debug/net6.0/Swap Value.pdb
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/obj/Debug/net6.0/Swap Value.genruntimeconfig.cache
+/Users/mukeshmahato/Visual basic console app/Swap Value/Swap Value/obj/Debug/net6.0/ref/Swap Value.dll

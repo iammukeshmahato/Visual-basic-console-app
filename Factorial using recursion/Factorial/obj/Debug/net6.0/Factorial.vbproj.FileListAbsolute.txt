@@ -1,0 +1,15 @@
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/obj/Debug/net6.0/Factorial.vbproj.AssemblyReference.cache
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/obj/Debug/net6.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/obj/Debug/net6.0/Factorial.AssemblyInfoInputs.cache
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/obj/Debug/net6.0/Factorial.AssemblyInfo.vb
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/obj/Debug/net6.0/Factorial.vbproj.CoreCompileInputs.cache
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/bin/Debug/net6.0/Factorial
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/bin/Debug/net6.0/Factorial.deps.json
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/bin/Debug/net6.0/Factorial.runtimeconfig.json
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/bin/Debug/net6.0/Factorial.dll
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/bin/Debug/net6.0/Factorial.pdb
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/obj/Debug/net6.0/Factorial.dll
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/obj/Debug/net6.0/refint/Factorial.dll
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/obj/Debug/net6.0/Factorial.pdb
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/obj/Debug/net6.0/Factorial.genruntimeconfig.cache
+/Users/mukeshmahato/Visual basic console app/Factorial using recursion/Factorial/obj/Debug/net6.0/ref/Factorial.dll

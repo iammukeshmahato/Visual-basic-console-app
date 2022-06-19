@@ -1,0 +1,15 @@
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/bin/Debug/net6.0/Ascending Order
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/bin/Debug/net6.0/Ascending Order.deps.json
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/bin/Debug/net6.0/Ascending Order.runtimeconfig.json
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/bin/Debug/net6.0/Ascending Order.dll
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/bin/Debug/net6.0/Ascending Order.pdb
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/obj/Debug/net6.0/Ascending Order.vbproj.AssemblyReference.cache
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/obj/Debug/net6.0/Ascending Order.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/obj/Debug/net6.0/Ascending Order.AssemblyInfoInputs.cache
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/obj/Debug/net6.0/Ascending Order.AssemblyInfo.vb
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/obj/Debug/net6.0/Ascending Order.vbproj.CoreCompileInputs.cache
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/obj/Debug/net6.0/Ascending Order.dll
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/obj/Debug/net6.0/refint/Ascending Order.dll
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/obj/Debug/net6.0/Ascending Order.pdb
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/obj/Debug/net6.0/Ascending Order.genruntimeconfig.cache
+/Users/mukeshmahato/Visual basic console app/Ascending Order/Ascending Order/obj/Debug/net6.0/ref/Ascending Order.dll

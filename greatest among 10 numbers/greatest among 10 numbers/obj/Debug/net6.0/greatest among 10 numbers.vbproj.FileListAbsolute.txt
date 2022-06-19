@@ -1,0 +1,15 @@
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/bin/Debug/net6.0/greatest among 10 numbers
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/bin/Debug/net6.0/greatest among 10 numbers.deps.json
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/bin/Debug/net6.0/greatest among 10 numbers.runtimeconfig.json
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/bin/Debug/net6.0/greatest among 10 numbers.dll
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/bin/Debug/net6.0/greatest among 10 numbers.pdb
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/obj/Debug/net6.0/greatest among 10 numbers.vbproj.AssemblyReference.cache
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/obj/Debug/net6.0/greatest among 10 numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/obj/Debug/net6.0/greatest among 10 numbers.AssemblyInfoInputs.cache
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/obj/Debug/net6.0/greatest among 10 numbers.AssemblyInfo.vb
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/obj/Debug/net6.0/greatest among 10 numbers.vbproj.CoreCompileInputs.cache
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/obj/Debug/net6.0/greatest among 10 numbers.dll
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/obj/Debug/net6.0/refint/greatest among 10 numbers.dll
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/obj/Debug/net6.0/greatest among 10 numbers.pdb
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/obj/Debug/net6.0/greatest among 10 numbers.genruntimeconfig.cache
+/Users/mukeshmahato/Visual basic console app/greatest among 10 numbers/greatest among 10 numbers/obj/Debug/net6.0/ref/greatest among 10 numbers.dll
