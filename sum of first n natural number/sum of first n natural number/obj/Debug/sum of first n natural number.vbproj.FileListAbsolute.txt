@@ -1,0 +1,11 @@
+C:\Users\mukeshmahato\source\repos\sum of first n natural number\sum of first n natural number\bin\Debug\sum of first n natural number.exe.config
+C:\Users\mukeshmahato\source\repos\sum of first n natural number\sum of first n natural number\bin\Debug\sum of first n natural number.exe
+C:\Users\mukeshmahato\source\repos\sum of first n natural number\sum of first n natural number\bin\Debug\sum of first n natural number.pdb
+C:\Users\mukeshmahato\source\repos\sum of first n natural number\sum of first n natural number\bin\Debug\sum of first n natural number.xml
+C:\Users\mukeshmahato\source\repos\sum of first n natural number\sum of first n natural number\obj\Debug\sum of first n natural number.vbproj.AssemblyReference.cache
+C:\Users\mukeshmahato\source\repos\sum of first n natural number\sum of first n natural number\obj\Debug\sum_of_first_n_natural_number.Resources.resources
+C:\Users\mukeshmahato\source\repos\sum of first n natural number\sum of first n natural number\obj\Debug\sum of first n natural number.vbproj.GenerateResource.cache
+C:\Users\mukeshmahato\source\repos\sum of first n natural number\sum of first n natural number\obj\Debug\sum of first n natural number.vbproj.CoreCompileInputs.cache
+C:\Users\mukeshmahato\source\repos\sum of first n natural number\sum of first n natural number\obj\Debug\sum of first n natural number.exe
+C:\Users\mukeshmahato\source\repos\sum of first n natural number\sum of first n natural number\obj\Debug\sum of first n natural number.xml
+C:\Users\mukeshmahato\source\repos\sum of first n natural number\sum of first n natural number\obj\Debug\sum of first n natural number.pdb
